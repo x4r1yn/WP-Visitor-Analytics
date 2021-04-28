@@ -1,0 +1,7 @@
+
+<div align="center" style="padding-top:5px; padding-bottom:10px;">
+					
+	<div style="width:200px; text-align:center; font-family:Arial, Trebuchet MS,'Times New Roman', Times, serif; font-size:14px; color:#666666; margin:0; border:1px double #CC9933; background:#FFFFFF; padding:0; line-height:normal;">Welcome! Visitor No:  <span style="color:#CC3300; font-weight:bold;"><script language="Javascript" src="counter.php?page=counter"></script></span>
+	</div>
+
+</div>
